@@ -4,4 +4,4 @@ So tools like photo recovery apps, forensic tools, or law enforcement utilities 
 
 Here’s how to wipe your free space, for good.
 
-NOTE: Set value of junkfile to be available space - 15gb to give your OS room to function.
+NOTE: Set value of junkfile to be **available space - 15gb** to give your OS room to function.
